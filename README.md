@@ -1,17 +1,12 @@
-Got it! Here’s the README content in a plain text format that you can easily copy:
-
----
-
-```markdown
 # Function Plotter
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Overview](#overview)
-5. [Features](#features)
-6. [Input Validation](#input-validation)
-8. [Examples](#examples)
-9. [License](#license)
+3. [Features](#features)
+4. [Input Validation](#input-validation)
+5. [Testing](#testing)
+6. [Examples](#examples)
 
 ## Introduction
 The Function Plotter is a Python GUI application that allows users to plot arbitrary mathematical functions. Users can input a function of x, specify the minimum and maximum values for x, and visualize the plotted function.
