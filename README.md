@@ -60,7 +60,7 @@ Function: `5x^3 + 2x`
 Min x: `-10`  
 Max x: `10`  
 
-![Valid Plot](examples/valid_plot2.png)
+![Valid Plot](examples/valid_plot3.png)
 
 ### Invalid Input
 Function: `x^2`  
