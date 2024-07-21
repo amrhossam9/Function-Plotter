@@ -55,6 +55,13 @@ Max x: `10`
 
 ![Valid Plot](examples/valid_plot2.png)
 
+### 3 - Valid Input 
+Function: `5x^3 + 2x`  
+Min x: `-10`  
+Max x: `10`  
+
+![Valid Plot](examples/valid_plot2.png)
+
 ### Invalid Input
 Function: `x^2`  
 Min x: `10`  
