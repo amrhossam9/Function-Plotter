@@ -161,6 +161,8 @@ class MainWindow(QMainWindow):
             self.canvas.axes.clear()
             self.canvas.axes.grid(True)
             self.canvas.axes.plot(x, y)
+            self.canvas.axes.set_xlabel("x")
+            self.canvas.axes.set_ylabel("F(x)")
             self.canvas.draw()
             self.error_label.setText("")
             self.canvas.cursor = Cursor(

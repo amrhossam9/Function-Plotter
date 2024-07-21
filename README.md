@@ -41,12 +41,19 @@ Automated tests are created using `pytest`. Tests cover the main functionalities
 2. **Plot Function:** Tests for plotting simple and constant functions, and handling invalid ranges.
 
 ## Examples
-### Valid Input
+### 1 - Valid Input 
 Function: `x^2`  
 Min x: `-10`  
 Max x: `10`  
 
-![Valid Plot](examples/valid_plot.png)
+![Valid Plot](examples/valid_plot1.png)
+
+### 2 - Valid Input 
+Function: `log10(x)`  
+Min x: `-10`  
+Max x: `10`  
+
+![Valid Plot](examples/valid_plot2.png)
 
 ### Invalid Input
 Function: `x^2`  
